@@ -1,7 +1,5 @@
 # ScholarGo-backend
 
-# ScholarGo Backend
-
 ## Overview
 
 ScholarGo is a Spring Boot REST API that connects parents with trusted school transport providers across South Africa.
